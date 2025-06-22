@@ -1,0 +1,93 @@
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+.logo-footer{
+    width: 100px;
+    height: 100px;
+}
+/* img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+} */
+ 
+span{
+    display: inline-block;
+}
+.categori{
+    padding: 50px 0;
+}
+.link-subject a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    text-transform: capitalize;
+}
+.begin-heart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.begin-heart span{
+    display: inline-block;
+    font-size: 11px;
+    color: white;
+    justify-content: space-between;
+}
+.begin-heart i{
+    display: inline-block;
+}
+.group-sta-price{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.hours-seemore{
+    display: flex;
+    justify-content: space-between;
+}
+.group-text-become{
+    padding: 20px;
+}
+.f-company {
+    display: flex;
+    flex-direction: column;
+}
+.f-company a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
+.f-support {
+    display: flex;
+    flex-direction: column;
+}
+.f-support a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
+.f-get-touch{
+     display: flex;
+    flex-direction: column;
+}
+.f-get-touch a{
+     text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
+.f-img{
+    display: flex;
+}
+.logo-profile{
+    width: 30px;
+    height: 30px;
+}
+.img-slide-show{
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+}
